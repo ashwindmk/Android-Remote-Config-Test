@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- START xml_defaults -->
+<defaultsMap>
+    <entry>
+        <key>hello_world_text</key>
+        <value>Hello android</value>
+    </entry>
+</defaultsMap>
+<!-- END xml_defaults -->
